@@ -3,4 +3,6 @@ The project deals with face recognition using CNN to detect whether a person is 
 
 The program will generate images in the first run and save it in a folder 'data_for_training'. Let the program generate images of atleast 2 of the family members by providing the user input at the time.
 
+The program will also create a folder by the name 'best_one' to save the weight and filter values which leads to the best performance of the neural network.
+
 conf.ipynb consists of credentials of the Twilio account and the Telegram bot and Channel IDs that are used for sending alerts. Edit the file by filling the missing values with personal credentials.
