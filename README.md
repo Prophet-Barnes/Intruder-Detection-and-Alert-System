@@ -5,4 +5,4 @@ The program will generate images in the first run and save it in a folder 'data_
 
 The program will also create a folder by the name 'best_one' to retain the best epoch for our neural network.
 
-conf.ipynb consists of credentials of the Twilio account and the Telegram bot and Channel IDs that are used for sending alerts. Edit the file by filling the missing values with personal credentials.
+conf.ipynb consists of credentials of the Twilio account and the Telegram bot and Channel IDs that are used for sending alerts. Edit the file by filling the missing values with your personal credentials.
